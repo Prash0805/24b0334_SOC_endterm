@@ -1,3 +1,0 @@
-C:/Users/DELL/OneDrive/Desktop/socfinal/24b0334/src/cpp/build/CMakeFiles/trading_bindings.dir
-C:/Users/DELL/OneDrive/Desktop/socfinal/24b0334/src/cpp/build/CMakeFiles/edit_cache.dir
-C:/Users/DELL/OneDrive/Desktop/socfinal/24b0334/src/cpp/build/CMakeFiles/rebuild_cache.dir
